@@ -40,6 +40,10 @@ base0F: "e96ba8" # brown
 ![Theme 05](./src/theme_05.jpg)
 
 
+## The issues 🐞
+Not all colors are set yet and there are still places where I currently have no idea how to test it. But they are still coming.
+
+
 ## The info ⭐
 
 * [idleberg](https://github.com/idleberg/atom-paraiso-dark)
