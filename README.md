@@ -31,11 +31,11 @@ base0F: "e96ba8" # brown
 
 ## The screens 🖼️
 
-![Drag Racing](./src/theme_01.jpg)
-![Drag Racing](./src/theme_02.jpg)
-![Drag Racing](./src/theme_03.jpg)
-![Drag Racing](./src/theme_04.jpg)
-![Drag Racing](./src/theme_05.jpg)
+![Theme 01](./src/theme_01.jpg)
+![Theme 02](./src/theme_02.jpg)
+![Theme 03](./src/theme_03.jpg)
+![Theme 04](./src/theme_04.jpg)
+![Theme 05](./src/theme_05.jpg)
 
 
 ## The info ⭐
@@ -44,4 +44,4 @@ base0F: "e96ba8" # brown
 * [Rubens LP](https://www.rubenslp.com.br/)
 * [VS Code Theme Color References](https://code.visualstudio.com/api/references/theme-color)
 
-**Enjoy and Happy Coding!**
+**Enjoy and Happy Coding!** 🤓🐞🐛🪰
