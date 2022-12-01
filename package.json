@@ -1,0 +1,21 @@
+{
+  "name": "mycodebox-themes",
+  "displayName": "myCodebox Themes",
+  "description": "All my fancy themes VS Code I made =)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Paraíso",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Paraíso-color-theme.json"
+      }
+    ]
+  }
+}
