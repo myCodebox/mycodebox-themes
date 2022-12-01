@@ -29,8 +29,6 @@ base0F: "e96ba8" # brown
 ```
 
 
-
-
 ## The screens 🖼️
 
 ![Drag Racing](./src/theme_01.jpg)
@@ -44,5 +42,6 @@ base0F: "e96ba8" # brown
 
 * [idleberg](https://github.com/idleberg/atom-paraiso-dark)
 * [Rubens LP](https://www.rubenslp.com.br/)
+* [VS Code Theme Color References](https://code.visualstudio.com/api/references/theme-color)
 
-**Enjoy!**
+**Enjoy and Happy Coding!**
