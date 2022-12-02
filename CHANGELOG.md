@@ -6,4 +6,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Adding new themes
+- Some colors are not set yet (because I can't trigger them)
+
+
+[1.0.4] - 2022-12-02
+
+---
+
+### Added
+
+- Adding **Merge edit** colors
+
+### Changed 
+
+- **Minimap** scrollbar color update
+
