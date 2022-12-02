@@ -216,9 +216,9 @@
 		"editorCursor.background": "#ef6155",
 		"editorCursor.foreground": "#ef6155",
 
-		"editor.selectionBackground": "#4f424c",         // MOUSE SELECT
-		"editor.selectionForeground": "#4f424c00",         // MOUSE SELECT
-		"editor.inactiveSelectionBackground": "#4f424c", // MOUSE SELECT
+		"editor.selectionBackground": "#4f424c",              // MOUSE SELECT
+		"editor.selectionForeground": "#4f424c00",            // MOUSE SELECT
+		"editor.inactiveSelectionBackground": "#4f424c",      // MOUSE SELECT
 		// "editor.selectionBackground": "#472c4580",         // MOUSE SELECT
 		// "editor.selectionForeground": "#472c4500",         // MOUSE SELECT
 		// "editor.inactiveSelectionBackground": "#472c4580", // MOUSE SELECT
@@ -239,8 +239,8 @@
 		"searchEditor.textInputBorder": "#472c45",
 		"editor.hoverHighlightBackground": "#815ba433",
 
-		"editor.lineHighlightBackground": "#41323f40", // MOUSE LINE
-		"editor.lineHighlightBorder": "#41323f00",     // MOUSE LINE
+		"editor.lineHighlightBackground": "#41323f40",    // MOUSE LINE
+		"editor.lineHighlightBorder": "#41323f00",        // MOUSE LINE
 		// "editor.lineHighlightBackground": "#472c4580", // MOUSE LINE
 		// "editor.lineHighlightBorder": "#472c4500",     // MOUSE LINE
 
@@ -773,28 +773,6 @@
 		// Ports Colors
 		"ports.iconRunningProcessForeground": "#7a4d77",
 	},
-
-
-	// "tokenColors": "./syntax/Paraíso_dark.tmTheme",
-	// "tokenColors": [
-	// 	{
-    //         "name": "Go Source",
-    //         "scope": "source.go",
-    //         "settings": {
-    //             "foreground": "#e7e9db"
-    //         }
-	// 	},
-	// 	{
-    //         "name": "Go Keyword Function",
-    //         "scope": "keyword.function.go",
-    //         "settings": {
-    //             "fontStyle": "italic",
-    //             "foreground": "#815ba4"
-    //         }
-	// 	},
-	// ],
-
-
 	"tokenColors": [
 		// {
 		// 	"name": "GO Constant",
@@ -827,9 +805,6 @@
 		// 		"foreground": "#e7e9db"
 		// 	}
 		// },
-
-
-
 
 		{
 			"name": "Text",

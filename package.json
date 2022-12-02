@@ -2,9 +2,9 @@
   "name": "mycodebox-themes",
   "displayName": "myCodebox Themes",
   "description": "All my fancy themes VS Code I made =)",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Spelunky",
-  "publisher": "Spelunky",
+  "publisher": "myCodebox",
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -18,10 +18,15 @@
     "vscode": "^1.73.0"
   },
   "keywords": [
+    "theme",
     "dark",
+    "dark theme",
     "purple",
     "paraíso",
-    "plum"
+    "plum",
+    "codebox",
+    "mycodebox",
+    "spelunky"
   ],
   "categories": [
     "Themes"
