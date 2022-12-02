@@ -34,7 +34,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Paraíso",
+        "label": "myCodebox - Paraíso",
         "uiTheme": "vs-dark",
         "path": "./themes/Paraíso-color-theme.json"
       }
