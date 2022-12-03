@@ -155,7 +155,7 @@
 
 		// Minimap
 		"minimap.findMatchHighlight": "#fec41880",
-		"minimap.selectionHighlight": "#472c4580",
+		"minimap.selectionHighlight": "#4f424c80",
 		"minimap.errorHighlight": "#ef6155",
 		"minimap.warningHighlight": "#f99b15",
 		"minimap.background": "#2f1e2e",
@@ -215,14 +215,12 @@
 		"editorLineNumber.activeForeground": "#7a4d77",
 		"editorCursor.background": "#ef6155",
 		"editorCursor.foreground": "#ef6155",
-
 		"editor.selectionBackground": "#4f424c",              // MOUSE SELECT
 		"editor.selectionForeground": "#4f424c00",            // MOUSE SELECT
 		"editor.inactiveSelectionBackground": "#4f424c",      // MOUSE SELECT
 		// "editor.selectionBackground": "#472c4580",         // MOUSE SELECT
 		// "editor.selectionForeground": "#472c4500",         // MOUSE SELECT
 		// "editor.inactiveSelectionBackground": "#472c4580", // MOUSE SELECT
-
 		"editor.selectionHighlightBackground": "#472c4500",
 		"editor.selectionHighlightBorder": "#e7e9db",
 		"editor.wordHighlightBackground": "#fec4184d",
@@ -238,42 +236,33 @@
 		"searchEditor.findMatchBorder": "#472c45",
 		"searchEditor.textInputBorder": "#472c45",
 		"editor.hoverHighlightBackground": "#815ba433",
-
 		"editor.lineHighlightBackground": "#41323f40",    // MOUSE LINE
 		"editor.lineHighlightBorder": "#41323f00",        // MOUSE LINE
 		// "editor.lineHighlightBackground": "#472c4580", // MOUSE LINE
 		// "editor.lineHighlightBorder": "#472c4500",     // MOUSE LINE
-
 		"editorUnicodeHighlight.border": "#ef615533",
 		"editorUnicodeHighlight.background": "#ef61551A",
-
 		"editorLink.activeForeground": "#7a4d77",
-
-		"editor.rangeHighlightBackground": "#2f1e2e",
-		"editor.rangeHighlightBorder": "#472c45",
-
+		"editor.rangeHighlightBackground": "#fec4180D",
+		"editor.rangeHighlightBorder": "#fec41800",
 		"editor.symbolHighlightBackground": "#2f1e2e",
 		"editor.symbolHighlightBorder": "#472c45",
-
 		"editorWhitespace.foreground": "#7a4d77",
-
 		"editorIndentGuide.background": "#7a4d7726",
 		"editorIndentGuide.activeBackground": "#7a4d7799",
-
+		"editorInlayHint.foreground": "#776e71",
 		"editorInlayHint.background": "#2f1e2e",
-		"editorInlayHint.foreground": "#7a4d77",
-		"editorInlayHint.typeForeground": "#7a4d77",
+		"editorInlayHint.typeForeground": "#776e71",
 		"editorInlayHint.typeBackground": "#2f1e2e",
-		"editorInlayHint.parameterForeground": "#ff0000",
+		"editorInlayHint.parameterForeground": "#776e71",
 		"editorInlayHint.parameterBackground": "#2f1e2e",
-
 		"editorRuler.foreground": "#472c4580",
 		"editor.linkedEditingBackground": "#2f1e2e",
 		"editorCodeLens.foreground": "#7a4d77",
 		"editorLightBulb.foreground": "#fec418",
 		"editorLightBulbAutoFix.foreground": "#fec418",
 		"editorBracketMatch.background": "#2f1e2e80",
-		"editorBracketMatch.border": "#472c45",
+		"editorBracketMatch.border": "#776e71",
 		"editorBracketHighlight.foreground1": "#5bc4bf",
 		"editorBracketHighlight.foreground2": "#5bc4bf",
 		"editorBracketHighlight.foreground3": "#5bc4bf",
@@ -294,7 +283,6 @@
 		"editorBracketPairGuide.background5": "#2f1e2e00",
 		"editorBracketPairGuide.background6": "#2f1e2e00",
 		"editor.foldBackground": "#e96ba81a",
-
 		"editorOverviewRuler.background": "#231925",
 		"editorOverviewRuler.border": "#472c45",
 		"editorOverviewRuler.findMatchForeground": "#fec418",
@@ -309,7 +297,6 @@
 		"editorOverviewRuler.warningForeground": "#f99b15",
 		"editorOverviewRuler.infoForeground": "#06b6ef",
 		"editorOverviewRuler.bracketMatchForeground": "#7a4d77",
-
 		"editorError.foreground": "#ef6155",
 		//// "editorError.border": "#ef6155",
 		"editorError.background": "#ef61551a",
@@ -324,8 +311,8 @@
 		"problemsErrorIcon.foreground": "#ef6155",
 		"problemsWarningIcon.foreground": "#f99b15",
 		"problemsInfoIcon.foreground": "#06b6ef",
-		"editorUnnecessaryCode.border": "#472c45",
-		"editorUnnecessaryCode.opacity": "#ff0000c0",
+		"editorUnnecessaryCode.border": "#ef615580",
+		"editorUnnecessaryCode.opacity": "#00000066",
 		"editorGutter.background": "#2f1e2e",
 		"editorGutter.modifiedBackground": "#fec418",
 		"editorGutter.addedBackground": "#48b685",
@@ -444,12 +431,12 @@
 		// Status Bar colors
 		"statusBar.background": "#2f1e2e",
 		"statusBar.foreground": "#7a4d77",
-		"statusBar.border": "#2f1e2e",
+		"statusBar.border": "#2f1e2e",		
 		"statusBar.debuggingBackground": "#2f1e2e",
 		"statusBar.debuggingForeground": "#7a4d77",
 		"statusBar.debuggingBorder": "#2f1e2e",
-		"statusBar.noFolderForeground": "#7a4d77",
 		"statusBar.noFolderBackground": "#2f1e2e",
+		"statusBar.noFolderForeground": "#7a4d77",
 		"statusBar.noFolderBorder": "#2f1e2e",
 		"statusBarItem.activeBackground": "#3f2c42",
 		"statusBarItem.hoverBackground": "#3f2c42",
@@ -739,23 +726,23 @@
 		"notebook.editorBackground": "#2f1e2e",
 		"notebook.cellBorderColor": "#472c45",
 		"notebook.cellHoverBackground": "#2f1e2e",
-		"notebook.cellInsertionIndicator": "#ff0000",
-		"notebook.cellStatusBarItemHoverBackground": "#2f1e2e",
-		"notebook.cellToolbarSeparator": "#ff0000",
-		"notebook.cellEditorBackground": "#2f1e2e",
-		"notebook.focusedCellBackground": "#2f1e2e",
-		"notebook.focusedCellBorder": "#472c45",
-		"notebook.focusedEditorBorder": "#472c45",
+		"notebook.cellInsertionIndicator": "#ef6155",
+		"notebook.cellStatusBarItemHoverBackground": "#472c45",
+		"notebook.cellToolbarSeparator": "#472c45",
+		"notebook.cellEditorBackground": "#231925",
+		"notebook.focusedCellBackground": "#7a4d771a",
+		"notebook.focusedCellBorder": "#ef6155",
+		"notebook.focusedEditorBorder": "#e96ba880",
 		"notebook.inactiveFocusedCellBorder": "#472c45",
 		"notebook.inactiveSelectedCellBorder": "#472c45",
 		"notebook.outputContainerBackgroundColor": "#2f1e2e",
-		"notebook.outputContainerBorderColor": "#472c45",
+		"notebook.outputContainerBorderColor": "#472c45",		
 		"notebook.selectedCellBackground": "#2f1e2e",
-		"notebook.selectedCellBorder": "#472c45",
+		"notebook.selectedCellBorder": "#472c45",		
 		"notebook.symbolHighlightBackground": "#2f1e2e",
-		"notebookScrollbarSlider.background":       "#e96ba833",
+		"notebookScrollbarSlider.background": "#e96ba833",
 		"notebookScrollbarSlider.activeBackground": "#e96ba84D",
-		"notebookScrollbarSlider.hoverBackground":  "#e96ba866",
+		"notebookScrollbarSlider.hoverBackground": "#e96ba866",
 		"notebookStatusErrorIcon.foreground": "#ef6155",
 		"notebookStatusRunningIcon.foreground": "#06b6ef",
 		"notebookStatusSuccessIcon.foreground": "#48b685",
