@@ -2,7 +2,7 @@
   "name": "mycodebox-themes",
   "displayName": "myCodebox Themes",
   "description": "All my fancy themes I made for VS Code =)",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Spelunky",
   "publisher": "myCodebox",
   "icon": "src/icon.png",
