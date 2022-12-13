@@ -1,6 +1,6 @@
 # myCodebox-themes README
 
-![Drag Racing](./src/banner.jpg)
+![Banner](./src/banner.jpg)
 
 Since the ATOM.io project is discontinued and there is no suitable VS code theme (I love Paríso), I decided to create my own theme.
 
@@ -9,7 +9,7 @@ I would like to thank [idleberg](https://github.com/idleberg/atom-paraiso-dark) 
 
 ## The colors 🌈
 
-![Drag Racing](./src/colors.png)
+![Colors](./src/colors.png)
 
 ```
 base00: "2f1e2e" # ----

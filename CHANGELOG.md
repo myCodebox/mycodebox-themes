@@ -10,6 +10,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Some colors are not set yet (because I can't trigger them)
 
 
+[1.0.6] - 2022-12-13
+
+---
+
+### Changed 
+
+- Updating a highlight color
+- Fixing a typo in the readme
+
+
 [1.0.5] - 2022-12-02
 
 ---

@@ -243,8 +243,11 @@
 		"editorUnicodeHighlight.border": "#ef615533",
 		"editorUnicodeHighlight.background": "#ef61551A",
 		"editorLink.activeForeground": "#7a4d77",
-		"editor.rangeHighlightBackground": "#fec4180D",
+
+		// "editor.rangeHighlightBackground": "#362235",
+		"editor.rangeHighlightBackground": "#3b253a",
 		"editor.rangeHighlightBorder": "#fec41800",
+
 		"editor.symbolHighlightBackground": "#2f1e2e",
 		"editor.symbolHighlightBorder": "#472c45",
 		"editorWhitespace.foreground": "#7a4d77",
@@ -263,6 +266,7 @@
 		"editorLightBulbAutoFix.foreground": "#fec418",
 		"editorBracketMatch.background": "#2f1e2e80",
 		"editorBracketMatch.border": "#776e71",
+
 		"editorBracketHighlight.foreground1": "#5bc4bf",
 		"editorBracketHighlight.foreground2": "#5bc4bf",
 		"editorBracketHighlight.foreground3": "#5bc4bf",
@@ -583,7 +587,7 @@
 		"debugView.exceptionLabelBackground": "#2f1e2e",
 		"debugView.stateLabelForeground": "#7a4d77",
 		"debugView.stateLabelBackground": "#2f1e2e",
-		"debugView.valueChangedHighlight": "#4e3",
+		"debugView.valueChangedHighlight": "#48b685",
 		"debugTokenExpression.name": "#5bc4bf",
 		"debugTokenExpression.value": "#06b6ef",
 		"debugTokenExpression.string": "#48b685",
