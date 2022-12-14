@@ -10,6 +10,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Some colors are not set yet (because I can't trigger them)
 
 
+[1.0.7] - 2022-12-13
+
+---
+
+### Changed 
+
+- Updating the `focusBorder`
+- Updating the `selection.background`
+- Updating the `settings.*Foreground`
+- Removeing deprecaded entries
+
+
 [1.0.6] - 2022-12-13
 
 ---
